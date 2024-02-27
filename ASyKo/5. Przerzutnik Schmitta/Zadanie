@@ -1,0 +1,12 @@
+Dla układu przerzutnika Schmitta z Rys. 1, przy założeniu, że napięcie progowe złącza bazaemiter ma wartość UBE =0.6V wykonać następujące zadania:
+
+1) dla zadanych wartości rezystorów R1 do R6 policzyć wejściowe napięcia przełączające
+    przerzutnika U0 i U1 oraz poziomy napięć na wyjściu Uwy dla stanu nasycenia Q2, obliczenia
+    zaokrąglić do dwóch miejsc po przecinku,
+
+2) narysować wykres pokazujący zależność między napięciami wejściowym i wyjściowym
+    układu z zadania 1, wykres nie powinien być mniejszy niż 15 cm x 10 cm,
+
+3) dla zadanych wartości rezystorów R1, R4, R5, R6 oraz narzuconych napięć przełączających
+    U0 i U1 (oznaczenia jak na wykresie) policzyć wartości rezystorów R2 i R3, obliczenia
+    zaokrąglić do liczb całkowitych. 
