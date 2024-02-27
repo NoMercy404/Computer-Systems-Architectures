@@ -1,0 +1,3 @@
+Numer zestawu = 663
+IA+B- = 3.4977 mA
+IA-B+ = 10.744 mA

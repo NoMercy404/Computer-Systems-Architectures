@@ -1,0 +1,13 @@
+Dane :
+R1 =  270	 675
+R2 =  680	 680
+R3 =  100	 100
+R4 =  675	 270
+R5 = 1700	1700
+
+
+Mostek Zrównoważony : 676,42 ohm
+
+Mostek Niezrównoważony : 583,32 ohm
+
+
