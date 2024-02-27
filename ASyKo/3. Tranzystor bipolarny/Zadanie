@@ -1,0 +1,3 @@
+dla zadanych napięcia zasilającego, prądu kolektora i wymaganego
+wzmocnienia policzyć rezystory R1.. R4 wzmacniacza, a następnie dobrać najbliższe wartości
+z szeregu E12. Zakładamy h21E=200, UBE=0.6V.
