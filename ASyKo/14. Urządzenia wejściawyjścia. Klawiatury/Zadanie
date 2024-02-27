@@ -1,0 +1,8 @@
+Zbuduj funkcjonalną klawiaturę 4x4, zajmującą wyłącznie jeden adres przestrzeni adresowej,
+skanowaną „wędrującym zerem”.
+
+Układ ma być funkcjonalna klawiaturą: ma mieć 16 klawiszy.
+
+Układ musi być odporny na naciśnięcie więcej niż jednego klawisza w tym samym wierszu.
+Bufory floating/1 w torze nadawczym magistrali danych zastępują niedostępne w LogisImie
+diody
