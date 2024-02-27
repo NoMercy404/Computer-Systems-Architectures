@@ -1,0 +1,10 @@
+1. Zbuduj układ podtrzymujący impuls dodatni zgłoszenia przerwania (impuls dodatni to
+taki impuls, gdzie stanem dominującym jest stan niski, który na krótko przechodzi w stan
+wysoki i wraca do stanu niskiego).
+
+2. Zbuduj układ wstawiający dodatkowe cykle TW dla operacji zapisu do pamięci.
+Należy rozbudować układ przedstawiony w wykładzie tak, aby wybór liczby wstawianych
+okresów TW odbywał się przez zmianę adresu multipleksera.
+
+3. Zbuduj konwerter sygnałów sterujących procesora: !MREQ , !IORQ , !WR , !RD
+na sygnały sterujące magistrali: !MWR , !MRD , !IOWR , !IORD .
