@@ -1,0 +1,3 @@
+Państwa zadaniem jest zbudowanie dwóch układów realizujących dokładnie tę samą funkcję, z których jeden ma składać się wyłącznie z :
+    - dwuwejściowych bramek NAND, drugi wyłącznie
+    - dwuwejściowych bramek NOR
