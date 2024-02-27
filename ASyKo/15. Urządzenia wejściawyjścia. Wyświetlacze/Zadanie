@@ -1,0 +1,3 @@
+Zbuduj układ konwertera kodu BCD (4 bity kodujące wartości od 0 do 9) na kod wyświetlacza siedmiosegmentowego. 
+Można korzystać z gotowych modułów (nie ma konieczności składaniawszystkiego z bramek). 
+Niedopuszczalne jest użycie gotowego Hex Digit Display
