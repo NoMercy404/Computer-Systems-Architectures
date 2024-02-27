@@ -1,0 +1,16 @@
+Korzystając wyłącznie z bramek dwuwejściowych NOR (można negować wejścia) zbudować
+pełny przerzutnik T przełączany zboczem opadającym.
+
+Podpowiedź:
+
+1. zbudować dwa przerzutniki D, jeden aktywowany poziomem wysoki, drugi
+aktywowany poziomem niskim,
+
+2. przerzutniki z punktu 1 połączyć tak, by tworzyły przerzutnik D zatrzaskiwany
+zboczem opadającym,
+
+3. z bramek NOR zbudować odpowiednik bramki XNOR,
+
+4. połączyć układy z punktu 2 i 3 w jedną całość.
+
+Układ powinien składać się z kilkunastu bramek (do 15)!
